@@ -1,0 +1,5 @@
+bin/
+obj/
+Setup/*.exe
+*.user
+.vs/
